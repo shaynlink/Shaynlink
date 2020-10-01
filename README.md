@@ -1,4 +1,4 @@
-### 📫 I’m here :) <img src="https://i.pinimg.com/originals/0d/f1/79/0df179f920ec3e360866037506e41397.gif" align="right">
+### currently lazy <img src="https://acegif.com/wp-content/uploads/2020/07/anime-sleep.gif" align="right">
 
 <!--
 **Shaynlink/Shaynlink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
