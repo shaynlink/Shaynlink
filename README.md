@@ -1,4 +1,4 @@
-### currently lazy <img src="https://acegif.com/wp-content/uploads/2020/07/anime-sleep.gif" align="right">
+### I'm current working on [Ohorime bot](https://github.com/ohorime/Ohorime) 
 
 <!--
 **Shaynlink/Shaynlink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
