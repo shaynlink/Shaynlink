@@ -1,4 +1,6 @@
-### I'm current working on [Ohorime bot](https://github.com/ohorime/Ohorime) 
+### I'm current working on [Ohorime bot](https://github.com/ohorime/Ohorime)
+
+My personnal server https://discord.gg/2Akw3qdB5F
 
 <!--
 **Shaynlink/Shaynlink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
