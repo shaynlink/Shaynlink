@@ -2,6 +2,8 @@
 
 My personnal server https://discord.gg/2Akw3qdB5F
 
+<img src="https://yokoso.ohori.me/images/sfw/hug?embed=true" />
+
 <!--
 **Shaynlink/Shaynlink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
