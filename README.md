@@ -1,5 +1,5 @@
 # Shaynlink ᓚᘏᗢ
-### Hello 👋, I'm shaynlink a French student. I develop since 5 years now (JavaScript ❤) in divers language like JS, Go, py (little) ect ...
+### Hello 👋, I'm shaynlink (my name si Rayane G.) a French student. I develop since 5 years now (JavaScript ❤) in divers language like JS, Go, py (little) ect ...
 
 #### My Discord Server: [Ohorime sekai](https://discord.gg/2Akw3qdB5F)
 
