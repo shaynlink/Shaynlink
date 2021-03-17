@@ -10,6 +10,7 @@
 - :x: **Anikami** - Legal streaming website of anime
 - 🟠 **KamiToon** - [Working] Legal Webtoon cross-platform. [open-source](https://github.com/kamitoonapp) : [prototype](https://prototype.kamitoon.ohori.me/)
 - ✔️ **Yokoso** - API of random anime picture [open-source](https://github.com/Yokoso-API) : [Documentation](https://docs.yokoso.ohori.me/)
+- 🟠 **Nero** - Inexpensive web hosting. [open-source](https://github.com/nerost) : [website](https://nerost.xyz)
 
 # My activities
 
