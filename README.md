@@ -7,10 +7,10 @@
 
 # My project
 ### Since january 2021, Me, [lllnnll](https://github.com/lllnnll) and Nosy. We want create Otakami a company based on Asian culture, here are our projects:
-- :x: **Anikami** - Legal streaming website of anime
-- 🟠 **KamiToon** - [Working] Legal Webtoon cross-platform. [open-source](https://github.com/kamitoonapp) : [prototype](https://prototype.kamitoon.ohori.me/)
-- ✔️ **Yokoso** - API of random anime picture [open-source](https://github.com/Yokoso-API) : [Documentation](https://docs.yokoso.ohori.me/)
-- 🟠 **Nero** - Inexpensive web hosting. [open-source](https://github.com/nerost) : [website](https://nerost.xyz)
+- :x: **Anikami** - Legal streaming website of anime.
+- :x: **KamiToon** - [Working] Legal Webtoon cross-platform.
+- :x: **Yokoso** - API of random anime picture.
+- :x: **Nero** - Inexpensive web hosting.
 
 # My activities
 
