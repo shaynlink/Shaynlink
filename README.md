@@ -6,7 +6,7 @@
 ![test](https://yokoso.ohori.me/images/sfw/hug?embed=true)
 
 # My project
-### Since january 2021, Me, [lllnnll](https://github.com/lllnnll) and Nosy. We want create Otakami a company based on Asian culture, here are our projects:
+### Since january 2021, Me, [lllnnll](https://github.com/lllnnll) and Nosy. We want create Otakami a company based on Japan culture, here are our projects:
 - :x: **Anikami** - Legal streaming website of anime.
 - :x: **KamiToon** - [Working] Legal Webtoon cross-platform.
 - :x: **Yokoso** - API of random anime picture.
