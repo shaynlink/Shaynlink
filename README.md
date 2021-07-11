@@ -9,7 +9,7 @@
 ### Since january 2021, Me, [lllnnll](https://github.com/lllnnll) and Nosy. We want create Otakami a company based on Japan culture, here are our projects:
 - :x: **Anikami** - Legal streaming website of anime.
 - :x: **KamiToon** - [Working] Legal Webtoon cross-platform.
-- :x: **Yokoso** - API of random anime picture.
+- :x: **kitsunes.me** - API of random anime picture.
 - :x: **Nero** - Inexpensive web hosting.
 
 # My activities
