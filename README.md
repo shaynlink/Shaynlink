@@ -4,7 +4,7 @@ I am passionous developer since +6 years, I have start with PHP for learn how to
 
 I am Javascript expert (even everything on technologies change ... I know, I know 🙄), I use for my currents project -> `TypeScript`, `JavaScript` or `Golang` and `ReactJS` / `NextJS` for stack
 
-You can follow me on Twitter
+[Shortlnk project 🌱](https://github.com/orgs/shortlnk/projects/2)
 
 [![Personal Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shaynl3nk)
 
