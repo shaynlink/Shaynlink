@@ -2,7 +2,7 @@
 
 I am passionous developer since +6 years, I have start with PHP for learn how to program a website, but I was too young for understand why PHP not working without server 🫡.
 
-I am Javascript expert (even everything on technologies change ... I know, I know 🙄), I use for my currents project -> `TypeScript`, `JavaScript` or `Golang` and `ReactJS` / `NextJS` for stack
+I am Javascript expert I use for my currents project -> `TypeScript`, `JavaScript`, `Golang` and `ReactJS` / `NextJS`, `Rust`
 
 ## List of my projects
 ### Closed Unit Federation System - CUFS
