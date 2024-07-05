@@ -13,7 +13,6 @@ ua.
 [Argus 📡] - A Powerfull Web-Monitor, can ping / test HTTP, WS, MQTT e.g .., but even every protocol using TCP / UDP, you can write your own script of TCP / UDP.\
 [Shortlnk project 🌱](https://github.com/orgs/shortlnk/projects/2) - Simple short linker but 100% auto-managed, pricing is managed automatically without using Human.\
 [Dishard.js] - A layer of Discord.js for purpose using Discord.js Shard but over internet and not in the same process\
-[
 
 [![Personal Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shaynl3nk)
 
